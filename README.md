@@ -1,4 +1,4 @@
-Loan Default Prediction Model
+**Loan Default Prediction Model**
 This machine learning model predicts whether a borrower will default on their loan, helping lenders assess risk and make informed decisions. Built with LightGBM and SVM, it processes loan application data, handles class imbalance, and provides interpretable predictions.
 
 Key Features
